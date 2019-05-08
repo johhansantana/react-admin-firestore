@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "firebase": "^6.0.1",
+    "ra-data-firestore-client": "^0.1.11",
+    "ra-data-simple-rest": "^2.9.0",
     "react": "^16.8.6",
+    "react-admin": "^2.9.0",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "sort-by": "^1.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
